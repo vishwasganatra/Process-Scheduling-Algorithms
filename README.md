@@ -18,19 +18,19 @@
    <table align="center" border="0" >
    <tr>
     <td>
-    <img width="300" src="screenshots\splashM.png"/>
+    <img width="300" src="Screenshots\splashM.png"/>
     <td>
-    <img width="300" src="screenshots\mainM.png"/>
+    <img width="300" src="Screenshots\mainM.png"/>
     </td>
     <td>
    </tr>
 
    <tr>
     <td>
-    <img width="300" src="screenshots\main2M.png"/>
+    <img width="300" src="Screenshots\main2M.png"/>
     </td>
     <td>
-    <img width="300" src="screenshots\main3M.png"/>
+    <img width="300" src="Screenshots\main3M.png"/>
     </td>
    </tr>
    
