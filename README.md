@@ -19,10 +19,10 @@
    <tr>
     <td>
     <img width="300" src="Screenshots\splashM.png"/>
+    </td>
     <td>
     <img width="300" src="Screenshots\mainM.png"/>
     </td>
-    <td>
    </tr>
 
    <tr>
